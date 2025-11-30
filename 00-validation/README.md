@@ -38,21 +38,21 @@ refi-complete/
 ├── 01-discovery/                     # User research & interviews
 │   ├── interview-guide.md            # Interview script
 │   ├── interviews/                   # 18 full interview transcripts
-│   │   ├── power-retail-01-sarah-merchant.md
-│   │   ├── power-retail-02-ahmed-al-mansouri.md
-│   │   ├── power-retail-03-michael-torres.md
-│   │   ├── power-retail-04-fatima-hassan.md
-│   │   ├── power-retail-05-james-kowalski.md
-│   │   ├── power-retail-06-layla-abdulaziz.md
-│   │   ├── power-retail-07-david-chen.md
-│   │   ├── power-retail-08-noor-al-qasimi.md
-│   │   ├── power-retail-09-robert-martinez.md
-│   │   ├── power-retail-10-yasmin-al-hashimi.md
-│   │   ├── fund-manager-01-cornerstone-capital.md
-│   │   ├── fund-manager-02-alpine-ventures.md
-│   │   ├── fund-manager-03-desert-capital.md
-│   │   ├── fund-manager-04-pacific-growth.md
-│   │   ├── fund-manager-05-latitude-partners.md
+│   │   ├── power-retail-01.md
+│   │   ├── power-retail-02.md
+│   │   ├── power-retail-03.md
+│   │   ├── power-retail-04.md
+│   │   ├── power-retail-05.md
+│   │   ├── power-retail-06.md
+│   │   ├── power-retail-07.md
+│   │   ├── power-retail-08.md
+│   │   ├── power-retail-09.md
+│   │   ├── power-retail-10.md
+│   │   ├── fund-manager-01.md
+│   │   ├── fund-manager-02.md
+│   │   ├── fund-manager-03.md
+│   │   ├── fund-manager-04.md
+│   │   ├── fund-manager-05.md
 │   │   ├── regulator-01-ciro-canada.md
 │   │   ├── regulator-02-sec-usa.md
 │   │   └── regulator-03-adgm-uae.md
